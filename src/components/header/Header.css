@@ -1,0 +1,60 @@
+.header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 20px 40px 0px 40px;
+    font-family: 'Work Sans';
+    font-style: normal;
+
+
+}
+
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.storeFront{
+    color: #A259FF;
+
+
+}
+
+.halfHead{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    column-gap: 30px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+.signUp{
+    color:white;
+    background: #A259FF;
+    border: #A259FF;
+    border-radius: 20px;
+    width: 152px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.userIcon{
+        background: #A259FF;
+        
+
+}
+

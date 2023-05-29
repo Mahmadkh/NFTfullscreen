@@ -1,0 +1,63 @@
+.body{
+    display: flex;
+    color: white;
+    padding: 60px 80px 60px 80px;
+    column-gap: 40px;
+   
+
+}
+.firstHalf{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    row-gap: 20px;
+    
+}
+.getStarted{
+    color:white;
+    background: #A259FF;
+    border: #A259FF;
+    border-radius: 20px;
+    width: 224px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+.discoverDigital{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 67px;
+
+}
+.rocketIcon{
+        background: #A259FF;
+
+}
+
+.secondHalf{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+}
+
+img{
+    display: flex;
+    width: 100%;
+
+}
+
+.spaceWalk{
+    display: flex;
+    padding-left: 20px;
+
+}
